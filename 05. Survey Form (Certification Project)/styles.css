@@ -40,10 +40,3 @@ input {
     margin-top: .5rem;
     width: 100%;
 }
-
-fieldset input {
-    display: block;
-    padding: .5rem .5rem;
-    margin-top: .5rem;
-    width: 100%;
-}
